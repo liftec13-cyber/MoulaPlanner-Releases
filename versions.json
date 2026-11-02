@@ -1,0 +1,51 @@
+{
+  "schema": 1,
+  "repository": "liftec13-cyber/MoulaPlanner-Releases",
+  "products": [
+    {
+      "schema": 1,
+      "product": "MPD",
+      "version": "1.20.0.35",
+      "publishedAt": "2026-11-02T00:01:08.7509893+00:00",
+      "downloadUrl": "https://github.com/liftec13-cyber/MoulaPlanner-Releases/releases/download/mpd-v1.20.0.35/MPD-1.20.0.35.zip",
+      "sha256": "1ad59fe0389c2d3ef516779bb56777bb9bf8c0f1815cedeb0f1d170ec1d26e1e",
+      "bytes": 2812146,
+      "compatibility": {
+        "metadataSchema": 1,
+        "minimumMPD": "1.20.0.35",
+        "platform": "Windows x64 / .NET Framework 4.8"
+      },
+      "notes": "GitHub patch distribution and update checker; local AddOns setup for all users. No automatic installer."
+    },
+    {
+      "schema": 1,
+      "product": "MPT",
+      "version": "1.6.0-alpha66",
+      "publishedAt": "2026-11-01T23:48:20.9963812+00:00",
+      "downloadUrl": "https://github.com/liftec13-cyber/MoulaPlanner-Releases/releases/download/mpt-v1.6.0-alpha66/MPT-1.6.0-alpha66.zip",
+      "sha256": "21de584336e2303f43af475f0628cadd42963e429a988cd0181c6d08742e36cb",
+      "bytes": 3712473,
+      "compatibility": {
+        "metadataSchema": 1,
+        "minimumMPD": "1.20.0.35",
+        "platform": "WoW Forever interface 16001"
+      },
+      "notes": "Patch notification for the public distribution repository; no HTTP from WoW. Manual reload required."
+    },
+    {
+      "schema": 1,
+      "product": "MPL",
+      "version": "0.1.0-phase-c",
+      "publishedAt": "2026-11-01T23:48:21.1305607+00:00",
+      "downloadUrl": "https://github.com/liftec13-cyber/MoulaPlanner-Releases/releases/download/mpl-v0.1.0-phase-c/MPL-0.1.0-phase-c.zip",
+      "sha256": "b1a3144d5b60fb5682abb132ef8d680f836210593cd03edb3c658bd869fca1d4",
+      "bytes": 627086,
+      "compatibility": {
+        "metadataSchema": 1,
+        "minimumMPD": "1.20.0.35",
+        "platform": "WoW Forever interface 16001"
+      },
+      "notes": "Patch notification for the public distribution repository; no HTTP from WoW. Manual reload required."
+    }
+  ]
+}
