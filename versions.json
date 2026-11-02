@@ -4,21 +4,6 @@
   "products": [
     {
       "schema": 1,
-      "product": "MPD",
-      "version": "1.20.0.35",
-      "publishedAt": "2026-11-02T00:01:08.7509893+00:00",
-      "downloadUrl": "https://github.com/liftec13-cyber/MoulaPlanner-Releases/releases/download/mpd-v1.20.0.35/MPD-1.20.0.35.zip",
-      "sha256": "1ad59fe0389c2d3ef516779bb56777bb9bf8c0f1815cedeb0f1d170ec1d26e1e",
-      "bytes": 2812146,
-      "compatibility": {
-        "metadataSchema": 1,
-        "minimumMPD": "1.20.0.35",
-        "platform": "Windows x64 / .NET Framework 4.8"
-      },
-      "notes": "GitHub patch distribution and update checker; local AddOns setup for all users. No automatic installer."
-    },
-    {
-      "schema": 1,
       "product": "MPT",
       "version": "1.6.0-alpha66",
       "publishedAt": "2026-11-01T23:48:20.9963812+00:00",
